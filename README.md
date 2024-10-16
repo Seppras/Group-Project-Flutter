@@ -1,6 +1,9 @@
 # mhsapi
 
-A new Flutter project.
+// NAMA Kelompok:
+// 202011420002 - Febrina Ade Susianti --> Get(Read) dan Delete code
+// 202011420031 - Gilang Cahyono --> Post(Create) dan Delete code
+// 202011420034 - Septian Dwi Prasetyo --> Put(Update) dan Delete Code
 
 ## Getting Started
 
